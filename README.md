@@ -19,3 +19,11 @@ Christmas Movie Emoji Quiz 🎬
 ## Day 5
 
 Find the anagrams
+
+## Day 6
+
+Snow globe Animation ❄️
+
+## Day 7
+
+SaaS Landing Page: GiftChain
