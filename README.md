@@ -2,18 +2,20 @@
 
 ## Day 1
 
-My Christmas List
+Grandpa's Gift List 🎅
 
 ## Day 2
 
-Advent Calendar Challenge
+Ugly Advent Calendar
 
 ## Day 3
 
-JavaScriptmas 2024
+Santa's Emoji Hack
 
 ## Day 4
 
-Guess the Christmas Movie<
+Christmas Movie Emoji Quiz 🎬
 
 ## Day 5
+
+Find the anagrams
