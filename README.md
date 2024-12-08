@@ -27,3 +27,7 @@ Snow globe Animation ❄️
 ## Day 7
 
 SaaS Landing Page: GiftChain
+
+## Day 8
+
+Seasonal Hangman ☃️
