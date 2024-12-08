@@ -1,4 +1,4 @@
-# JavaScriotmas Challenge
+# JavaScriptmas Challenge
 
 ## Day 1
 
