@@ -31,3 +31,7 @@ SaaS Landing Page: GiftChain
 ## Day 8
 
 Seasonal Hangman ☃️
+
+## Day 9
+
+Which recipe should Grandma make?
