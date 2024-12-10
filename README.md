@@ -35,3 +35,7 @@ Seasonal Hangman ☃️
 ## Day 9
 
 Which recipe should Grandma make?
+
+## Day 10
+
+Christmas Flag in CSS
